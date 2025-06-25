@@ -79,4 +79,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Feito com 💜 por [Gabriel (Gon)](https://github.com/gonk1d)
 
-Se tiver dúvidas, sugestões ou quiser bater um papo, me encontre no [LinkedIn](https://www.linkedin.com/in/gon/)! 
+Se tiver dúvidas, sugestões ou quiser bater um papo, me encontre no [LinkedIn](https://www.linkedin.com/in/gabrieltasso/)! 
