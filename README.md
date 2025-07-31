@@ -77,6 +77,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📬 Contato
 
-Feito com 💜 por [Gabriel (Gon)](https://github.com/gonk1d)
+Feito com 💜 por [Gabriel (Gon)](https://github.com/gontroller)
 
 Se tiver dúvidas, sugestões ou quiser bater um papo, me encontre no [LinkedIn](https://www.linkedin.com/in/gabrieltasso/)! 
