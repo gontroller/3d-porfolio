@@ -9,9 +9,6 @@ Um portfólio interativo em 3D para desenvolvedores e designers, feito com React
 Veja o portfólio em ação:
 
 - [Vercel Deploy](https://3d-porfolio-git-main-gabriels-projects-ebe76824.vercel.app/)
-- Ou veja a imagem abaixo:
-
-![Screenshot](public/readme-bottom.png)
 
 ## ✨ Funcionalidades
 
