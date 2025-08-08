@@ -2,7 +2,7 @@
 
 Um portfólio interativo em 3D para desenvolvedores e designers, feito com React, Three.js e Vite. Demonstre suas habilidades, projetos e experiências de forma inovadora e visualmente impressionante.
 
-![Demonstração do Portfólio](public/readme.png)
+![Demonstração do Portfólio](public/readme.gif)
 
 ## 🚀 Demonstração
 
